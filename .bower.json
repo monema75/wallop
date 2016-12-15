@@ -5,13 +5,7 @@
   "_release": "2.4.1",
   "main": [
     "js/Wallop.js",
-    "css/wallop.css",
-    "css/wallop--fade.css",
-    "css/wallop--fold.css",
-    "css/wallop--rotate.css",
-    "css/wallop--scale.css",
-    "css/wallop--slide.css",
-    "css/wallop--vertical-slide.css"
+    "css/wallop.css"
   ],
   "_resolution": {
     "type": "version",
